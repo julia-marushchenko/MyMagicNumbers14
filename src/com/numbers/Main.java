@@ -33,8 +33,12 @@ public class Main {
             // Printing result to console
             // Condition of division by 3
             if (tmp % 3 == 0) {
+
+                // Printing the result to console
                 System.out.println(tmp + " is dividable by 3.");
             } else {
+
+                // Printing the result to console
                 System.out.println(tmp + " is not dividable by 3.");
             }
         }
